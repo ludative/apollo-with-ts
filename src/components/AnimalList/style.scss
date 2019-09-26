@@ -1,0 +1,8 @@
+section.section-animal-list {
+  padding: 30px;
+  table {
+    & > tbody > tr > td {
+      text-align: center;
+    }
+  }
+}
